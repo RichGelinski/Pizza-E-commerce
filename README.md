@@ -15,7 +15,7 @@ This project was an exciting opportunity to apply my web development skills and 
 
 #WebDevelopment #JavaScript #HTML #CSS #Project #PizzaPurchase #UserExperience #FrontendDevelopment #Linkedin #WebDevelopment #PizzaLovers
 
-# Potuguês
+# Português
 🍕💻 Desenvolvimento de um Sistema de Compra de Pizzas Online 💻🍕
 
 Estou animado em compartilhar o projeto de compra de pizzas online que desenvolvi recentemente! Este projeto foi uma oportunidade incrível para aplicar meus conhecimentos em JavaScript e criar uma experiência de compra de pizzas deliciosa e intuitiva.
